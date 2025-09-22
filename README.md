@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Enes!  <br>- 📱 Android developer focusing on Kotlin & Jetpack Compose  <br>- 🌐 Learning and experimenting with modern web technologies  <br>- 🌱 Always looking for new challenges and collaborations  <br>
+Hi 👋 I’m Enes!  <br>- 📱 Android developer focusing on Kotlin & Jetpack Compose  <br>- 🌐 Learning and experimenting with modern android technologies  <br>- 🌱 Always looking for new challenges and collaborations  <br>
 
 
 ## 🌐 Socials:
