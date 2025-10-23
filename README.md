@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi 👋 I’m Enes!  <br>- 📱 Android developer focusing on Kotlin & Jetpack Compose  <br>- 🌐 Learning and experimenting with modern android technologies  <br>- 🌱 Always looking for new challenges and collaborations  <br>
+## 💫 About Me
+
+Hi 👋 I'm Enes!
+
+- 📱 Android Developer passionate about creating beautiful mobile experiences
+- 🎯 Building apps with modern mobile technologies
+- 🌐 Experimenting with cutting-edge frameworks and tools
+- 💡 Focused on performance, user experience, and clean code
+- 🌱 Always learning and open to new challenges & collaborations
+
+**Areas of Interest:**
+- Mobile UI/UX Design
+- Performance Optimization
+- Modern App Architecture
+- Developer Experience & Tooling
 
 
 ## 🌐 Socials:
